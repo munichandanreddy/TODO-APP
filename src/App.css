@@ -1,0 +1,47 @@
+
+.todo-app {
+  max-width: 600px;
+  margin:  300px;
+  margin-top: 100px;
+  margin-left: 450px;
+  padding: 20px;
+  background-image: url(https://i.imgur.com/Nzq4hOn.png);
+}
+
+.header input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  overflow: hidden;
+  margin-left: -10px;
+  border-radius: 4px;
+}
+
+.todos {
+  margin-top: 20px;
+}
+
+.todo {
+  cursor: pointer;
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: whitesmoke;
+  border-radius: 15px;
+}
+
+.completed {
+  text-decoration: line-through;
+  background-color: #d3d3d3;
+}
+
+.reset-button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #3636f4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
